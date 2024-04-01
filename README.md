@@ -23,10 +23,24 @@ Finding the correlation between the tech stocks
 It looks like Amazon and Microsoft are the ones with most correlation, futher clarity on this can be obtained by using the closing price and returns correlation matrix
 
 Correlation matrix for tech stock returns 
+
 <img width="520" alt="image" src="https://github.com/pratt12/Stock_price_analysis/assets/69366735/594bf04b-b890-49a6-877e-ef8be40b19e9">
 
 Correlation matrix for closing prices of the stocks for the past year
+
 <img width="473" alt="image" src="https://github.com/pratt12/Stock_price_analysis/assets/69366735/5ed9594b-52d1-4d8d-aa46-abc85a2e0b12">
+
+Using the monte-carlo method of analysis for stocks
+<img width="668" alt="image" src="https://github.com/pratt12/Stock_price_analysis/assets/69366735/f45a3d91-f086-48c6-a475-45e504b423dc">
+
+This is the output for the above code, it looks too messy for any analysis, so we try to derive the histogram for the price change.
+<img width="550" alt="image" src="https://github.com/pratt12/Stock_price_analysis/assets/69366735/995c7b12-3891-4af0-9f5a-521274c08e52">
+
+The histogram along with the cost of maximum loss of 1% per day is as below
+<img width="486" alt="image" src="https://github.com/pratt12/Stock_price_analysis/assets/69366735/33bfcde4-18af-49cd-9881-d777d893b8e1">
+
+
+
 
 
 
